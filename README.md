@@ -1,3 +1,5 @@
 # News_Sentiment_Propogation
-Code for research paper on how news sentiment affects its propogation
+Code for research paper on how news sentiment affects its propogation.
 Since its creation in 2006, Twitter has been slowly transforming into a platform to receive news.  Twitter has many unique characteristics like the retweet button which aid in the propagation of news. Previous studies have shown that over 70 percent of Twitter users receive news through Twitter. Additionally, sentiment analysis of a large tweet database has proven that negative tweets are more prevalent among Twitter, and demographic characteristics affect the response to negative and positive news. In this study, we provide a model to simulate the diffusion of the news based on demographics and network structure. We compare different types of networks and demographics to investigate the speed, reach, and propagation of positive and negative news. After extensive analysis, we find that the retweet volume of negative news is more than double that of positive news, and the speed of diffusion is twice that of positive news as well. 
+Data taken from Stanford Ego dataset.
+Read the research paper for more information on the study.
